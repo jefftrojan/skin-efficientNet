@@ -1,0 +1,9 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+torch==2.0.1
+torchvision==0.15.2
+efficientnet-pytorch==0.7.1
+Pillow==10.0.1
+opencv-python==4.8.1.78
+numpy==1.24.3
+python-multipart==0.0.6
